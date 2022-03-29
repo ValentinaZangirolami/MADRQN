@@ -13,7 +13,7 @@ flowchart LR;
     D-- brake/throttle-->G;
     
 ```
-The two agents take respectively the actions without any connection, independently. 
+The two agents take respectively actions without any connection, independently. 
 
 In future work, it would be interesting to evaluate a dependent structure between two agents to overcome the independent relation, which is less indicated in this task.
 
